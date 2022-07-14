@@ -1,4 +1,4 @@
-https://cdn.discordapp.com/attachments/987101146722213889/997187270799007784/unknown.png
+![unknown](https://user-images.githubusercontent.com/109303581/179041975-f634b8ca-d019-43b9-bad0-bf6e267da943.png)
 
 
 pip install bitches
